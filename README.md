@@ -1,2 +1,2 @@
 # foodrecipe
-I have created a food delivery app.
+I have created a food recipe app.
